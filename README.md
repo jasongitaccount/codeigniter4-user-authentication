@@ -1,4 +1,4 @@
-# Citools:Auth
+# Codeigniter4 User Authentication
 
 [![](https://github.com/jasongitaccount/jmyth-auth/workflows/PHPUnit/badge.svg)](https://github.com/jasongitaccount/jmyth-auth/actions?query=workflow%3A%22PHPUnit%22)
 User authentication (login & registration) for CodeIgniter 4.
