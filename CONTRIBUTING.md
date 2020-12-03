@@ -34,8 +34,8 @@ Before we get started, here are a few things we expect from you (and that you sh
 
 ## How to contribute
 
-If you'd like to contribute, start by searching through the [issues](https://github.com/jasongitaccount/jmyth-auth/issues)
-and [pull requests](https://github.com/jasongitaccount/jmyth-auth/pulls) to see whether someone else has raised a similar idea or question.
+If you'd like to contribute, start by searching through the [issues](https://github.com/jasongitaccount/codeigniter4-user-authentication/issues)
+and [pull requests](https://github.com/jasongitaccount/codeigniter4-user-authentication/pulls) to see whether someone else has raised a similar idea or question.
 
 If you don't see your idea listed, and you think it fits into the goals of this guide, do one of the following:
 

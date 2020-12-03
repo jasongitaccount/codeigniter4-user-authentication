@@ -1,6 +1,6 @@
 # Codeigniter4 User Authentication
 
-[![](https://github.com/jasongitaccount/jmyth-auth/workflows/PHPUnit/badge.svg)](https://github.com/jasongitaccount/jmyth-auth/actions?query=workflow%3A%22PHPUnit%22)
+[![](https://github.com/jasongitaccount/codeigniter4-user-authentication/workflows/PHPUnit/badge.svg)](https://github.com/jasongitaccount/codeigniter4-user-authentication/actions?query=workflow%3A%22PHPUnit%22)
 User authentication (login & registration) for CodeIgniter 4.
 
 This is a fork of [Myth:Auth](https://github.com/jasongitaccount/myth-auth).
@@ -50,7 +50,7 @@ namespace to the **$psr4** array. For example, if you copied it into **app/Third
         'Config'      => APPPATH . 'Config',
         APP_NAMESPACE => APPPATH,
         'App'         => APPPATH,
-        'Citools\Auth'   => APPPATH .'ThirdParty/jmyth-auth/src',
+        'Citools\Auth'   => APPPATH .'ThirdParty/codeigniter4-user-authentication/src',
     ];
 ```
 

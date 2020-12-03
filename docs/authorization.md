@@ -165,7 +165,7 @@ Permissions are simple strings that represent some permission your user might ne
 `viewUsers` or `manageUsers`. To ensure you don't hit any issues with any other modules, you should consider adopting a 
 pattern that helps to protect against collisions. This is easily done by using your name or initials, and the name of 
 your module or library that this is for. If I were writing a blog module, I might use something like 
-`jmyth.blog.managePosts`. Or `blog.posts.manage`.
+`citools.blog.managePosts`. Or `blog.posts.manage`.
 
 ### permission()
 Returns the details about a single permission as an object straight from the database. The only parameter is the 
