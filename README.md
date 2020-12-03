@@ -33,7 +33,7 @@ This repo is maintained by volunteers. If you post an issue and haven't heard fr
 Installation is best done via Composer. Assuming Composer is installed globally, you may use
 the following command: 
 
-    > composer require jmyth/auth
+    > composer require jasongitaccount/codeigniter4-user-authentication
 
 This will add the latest stable release of **Citools\Auth** as a module to your project. Note that
 you may need to adjust your project's
@@ -69,7 +69,7 @@ In your application, perform the following setup:
 
     > php spark migrate -all  
 
-4. Move the folder `static` from `/vendor/jmyth/auth/` (if installed via composer) to`/public/`.
+4. Move the folder `static` from `/vendor/jasongitaccount/codeigniter4-user-authentication/` (if installed via composer) to`/public/`.
 
 NOTE: This library uses your application's cache settings to reduce database lookups. If you want
 to make use of this, simply make sure that your are using a cache engine other than `dummy` and 
